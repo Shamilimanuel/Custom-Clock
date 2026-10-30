@@ -1,0 +1,49 @@
+<Ditto_Theme_File Version="2.5" Author="Shamilimanuel" Notes="Teal theme matching the Custom Clock taskbar">
+
+	<!-- Title bar. Colours are RGB(red,green,blue). The caption fades from Left to Right. -->
+	<CaptionLeft>RGB(6,20,26)</CaptionLeft>
+	<CaptionRight>RGB(15,58,69)</CaptionRight>
+
+	<CaptionLeftTopMost>RGB(6,20,26)</CaptionLeftTopMost>
+	<CaptionRightTopMost>RGB(78,177,177)</CaptionRightTopMost>
+
+	<CaptionLeftNotConnected>RGB(6,20,26)</CaptionLeftNotConnected>
+	<CaptionRightNotConnected>RGB(90,24,24)</CaptionRightNotConnected>
+
+	<CaptionTextColor>RGB(143,243,255)</CaptionTextColor>
+
+	<!-- The list of copied items: alternating row colours -->
+	<ListBoxOddRowsBG>RGB(7,26,33)</ListBoxOddRowsBG>
+	<ListBoxEvenRowsBG>RGB(6,20,26)</ListBoxEvenRowsBG>
+
+	<ListBoxOddRowsText>RGB(230,251,251)</ListBoxOddRowsText>
+	<ListBoxEvenRowsText>RGB(230,251,251)</ListBoxEvenRowsText>
+
+	<!-- The highlighted item -->
+	<ListBoxSelectedBG>RGB(15,58,69)</ListBoxSelectedBG>
+	<ListBoxSelectedNoFocusBG>RGB(12,44,53)</ListBoxSelectedNoFocusBG>
+
+	<ListBoxSelectedText>RGB(143,243,255)</ListBoxSelectedText>
+	<ListBoxSelectedNoFocusText>RGB(111,169,179)</ListBoxSelectedNoFocusText>
+
+	<Border>RGB(18,48,58)</Border>
+	<BorderTopMost>RGB(78,177,177)</BorderTopMost>
+	<BorderNotConnected>RGB(255,107,107)</BorderNotConnected>
+
+	<!-- The groups tree on the side -->
+	<GroupTreeBG>RGB(6,20,26)</GroupTreeBG>
+	<GroupTreeText>RGB(111,169,179)</GroupTreeText>
+
+	<CaptionSize></CaptionSize>
+	<CaptionFontSize></CaptionFontSize>
+
+	<!-- The preview popup that shows a whole item -->
+	<DescriptionWindowBG>RGB(7,26,33)</DescriptionWindowBG>
+	<DescriptionWindowText>RGB(230,251,251)</DescriptionWindowText>
+
+	<MainWindowBG>RGB(6,20,26)</MainWindowBG>
+
+	<SearchTextBoxFocusBG>RGB(15,58,69)</SearchTextBoxFocusBG>
+	<SearchTextBoxFocusText>RGB(230,251,251)</SearchTextBoxFocusText>
+
+</Ditto_Theme_File>

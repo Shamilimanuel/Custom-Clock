@@ -1,0 +1,8 @@
+cookies.json
+position.json
+__pycache__/
+*.pyc
+.venv/
+data.txt
+.vscode/
+tests/out/
